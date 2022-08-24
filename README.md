@@ -47,7 +47,6 @@ Class Crane
 
 • For stacking a weak container (which is done in the end, all stacking all other containers), a HashSet mp is maintained. A stack is added to mp if a weak container is stacked in it. Hence, that stack is sealed now and no more container can be stacked in it. The weak container will be on the top.
 
-•	The Container class is implemented using Factory Design Pattern. 
 
 Walkthrough of Inputs and Outputs 
 
